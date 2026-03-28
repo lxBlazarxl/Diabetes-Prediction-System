@@ -2,6 +2,6 @@
 
 ⚠️⚠️⚠️ NOT MEANT FOR MEDICAL USE ⚠️⚠️⚠️
 
-![Diabetes_Prediction_System](previews/preview.png)
+![Diabetes_Prediction_System](preview/preview.png)
 
 ---
